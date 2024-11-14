@@ -27,6 +27,7 @@ Now let's look at some full builds using these basic design elements:
 
 - Fork Lift: [instructions](https://www.onekitprojects.com/51515/forklift)
 - Crane: [instructions](https://www.onekitprojects.com/51515/crane). This req's string
+- Color Sorter: [instructions](https://www.onekitprojects.com/51515/color-sorter). This one is very hhelpful since it is an simpler sorter concept to dig into prior to introducing the advanced sorter below.
 
 Introduce the degree of freedom concept.
 
@@ -57,3 +58,4 @@ I want to introduce these as topics, but not dive in.
 
 - Anthropological Robots
   - _I, Robot_ introduces philosophical concerns about robots
+  - _The Jettsons_ also
