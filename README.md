@@ -33,6 +33,10 @@ Introduce the degree of freedom concept.
 
 Challenge build: build a 2DOF robot that grips a ball and lifts it over a wall. The arm may not be on a vehicle; it must be stationary.
 
+**Uncategorized Content**:
+
+- the students are interested in building the rubik's cube sorter in the activity book. Need to figure out where this fits.
+
 ## Module: Playing with Machine Learning
 
 Using just lego elements, we'll dive into ML to learn how this is helpful in robots designed for manufacturing tasks.
